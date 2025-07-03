@@ -1,9 +1,3 @@
-import HolaMundo from '../components/HolaMundo';
-
 export default function Home() {
-  return (
-    <div>
-      <HolaMundo />
-    </div>
-  );
+  return <h1>Hola mundo Next.js</h1>;
 }
